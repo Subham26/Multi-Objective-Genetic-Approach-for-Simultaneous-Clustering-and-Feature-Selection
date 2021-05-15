@@ -1,5 +1,6 @@
 import cat_dist
 import mutual_info
+import math
 
 
 # Objective-I: Within-Cluster-Variance
@@ -21,7 +22,7 @@ def within_cluster_variance(chromosome, data):
             index2 = chromosome[1][m2]
 
             if cat_dist.distance(data, index1, index2, chromosome[0]) == 0:
-                return -INFINITY
+                return math.inf
 
     # Within cluster variance
     wcv = 0
@@ -30,7 +31,7 @@ def within_cluster_variance(chromosome, data):
         wcv += min([cat_dist.distance(data, i, chromosome[1][j], chromosome[0]) for j in range(K)])
 
     # Normalized wcv
-    return -wcv / chromosome[0].count(1)
+    return wcv / chromosome[0].count(1)
 
   
 # Objective-II: Mutual Information-based Redundancy
