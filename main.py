@@ -1,3 +1,5 @@
+import pandas as pd
+from datetime import datetime
 from mogafsc import nsga2
 
 
@@ -5,7 +7,8 @@ from mogafsc import nsga2
 K = 4
 
 # Read DATA
-df = pd.read_csv("dataset\soybean-small.data", header=None)
+df = pd.read_csv("soybean-small.data", header=None)
+df = df.drop([35], axis=1)
 
 for column in df.columns:
     df[column] = df[column].astype('category')
