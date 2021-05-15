@@ -4,10 +4,11 @@ import cat_dist
 def dunn_index(Chromosome, data, instance_count):
     K = len(Chromosome[1])
 
+    # d[i] contains distances of all the data points belonging to i-th cluster from i-th medoid
     d = [[] for i in range(K)]
     labels = []
     for i in range(instance_count):
-        # dK contains distances from K medoids
+        # dK contains distances of i-th data point from all the K medoids
         dK = [cat_dist.distance(data, i, Chromosome[1][j], Chromosome[0]) for j in range(K)]
         d[dK.index(min(dK))].append(min(dK))
         labels.append(dK.index(min(dK)))
