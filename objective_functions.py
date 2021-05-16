@@ -1,12 +1,12 @@
+import math
+import numpy as np
 import cat_dist
 import mutual_info
-import math
 
 
 # Objective-I: Within-Cluster-Variance
 
 def within_cluster_variance(chromosome, data):
-
     # Number of clusters
     K = len(chromosome[1])
 
@@ -18,26 +18,29 @@ def within_cluster_variance(chromosome, data):
     for m1 in range(K):
         index1 = chromosome[1][m1]
 
-        for m2 in range(m1+1, K):
+        for m2 in range(m1 + 1, K):
             index2 = chromosome[1][m2]
 
-            if cat_dist.distance(data, index1, index2, chromosome[0]) == 0:
+            if cat_dist.distance(np.multiply(np.array(data[index1]),
+                                             np.array(chromosome[0])),
+                                 np.multiply(np.array(data[index2]), np.array(chromosome[0]))) == 0:
                 return math.inf
 
     # Within cluster variance
     wcv = 0
 
     for i in range(instance_count):
-        wcv += min([cat_dist.distance(data, i, chromosome[1][j], chromosome[0]) for j in range(K)])
+        wcv += min([cat_dist.distance(np.multiply(np.array(data[i]), np.array(chromosome[0])),
+                                      np.multiply(np.array(data[chromosome[1][j]]), np.array(chromosome[0])))
+                    for j in range(K)])
 
     # Normalized wcv
     return wcv / chromosome[0].count(1)
 
-  
+
 # Objective-II: Mutual Information-based Redundancy
 
 def compute_redundancy(feature_set, data):
-    
     # data [instance_count X feature_count]
     instance_count, feature_count = data.shape
     selected_feature_count = feature_set.count(1)
@@ -55,4 +58,3 @@ def compute_redundancy(feature_set, data):
     redundancy /= (selected_feature_count * (selected_feature_count - 1) / 2)
 
     return redundancy
-
