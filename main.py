@@ -7,8 +7,8 @@ from mogafsc import nsga2
 K = 4
 
 # Read DATA
-df = pd.read_csv("soybean-small.data", header=None)
-df = df.drop([35], axis=1)
+df = pd.read_csv("dataset\house-vote-84.data", header=None)
+df = df.drop([0], axis=1)
 
 for column in df.columns:
     df[column] = df[column].astype('category')
