@@ -1,0 +1,206 @@
+CarName,fueltype,aspiration,doornumber,carbody,drivewheel,enginelocation,enginetype,cylindernumber,fuelsystem,symboling,wheelbase,carlength,carwidth,carheight,curbweight,enginesize,boreratio,stroke,compressionratio,horsepower,peakrpm,citympg,highwaympg,price
+alfa-romero giulia,gas,std,two,convertible,rwd,front,dohc,four,mpfi,3,88.6,168.8,64.1,48.8,2548,130,3.47,2.68,9.0,111,5000,21,27,13495.0
+alfa-romero stelvio,gas,std,two,convertible,rwd,front,dohc,four,mpfi,3,88.6,168.8,64.1,48.8,2548,130,3.47,2.68,9.0,111,5000,21,27,16500.0
+alfa-romero Quadrifoglio,gas,std,two,hatchback,rwd,front,ohcv,six,mpfi,1,94.5,171.2,65.5,52.4,2823,152,2.68,3.47,9.0,154,5000,19,26,16500.0
+audi 100 ls,gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,99.8,176.6,66.2,54.3,2337,109,3.19,3.4,10.0,102,5500,24,30,13950.0
+audi 100ls,gas,std,four,sedan,4wd,front,ohc,five,mpfi,2,99.4,176.6,66.4,54.3,2824,136,3.19,3.4,8.0,115,5500,18,22,17450.0
+audi fox,gas,std,two,sedan,fwd,front,ohc,five,mpfi,2,99.8,177.3,66.3,53.1,2507,136,3.19,3.4,8.5,110,5500,19,25,15250.0
+audi 100ls,gas,std,four,sedan,fwd,front,ohc,five,mpfi,1,105.8,192.7,71.4,55.7,2844,136,3.19,3.4,8.5,110,5500,19,25,17710.0
+audi 5000,gas,std,four,wagon,fwd,front,ohc,five,mpfi,1,105.8,192.7,71.4,55.7,2954,136,3.19,3.4,8.5,110,5500,19,25,18920.0
+audi 4000,gas,turbo,four,sedan,fwd,front,ohc,five,mpfi,1,105.8,192.7,71.4,55.9,3086,131,3.13,3.4,8.3,140,5500,17,20,23875.0
+audi 5000s (diesel),gas,turbo,two,hatchback,4wd,front,ohc,five,mpfi,0,99.5,178.2,67.9,52.0,3053,131,3.13,3.4,7.0,160,5500,16,22,17859.167
+bmw 320i,gas,std,two,sedan,rwd,front,ohc,four,mpfi,2,101.2,176.8,64.8,54.3,2395,108,3.5,2.8,8.8,101,5800,23,29,16430.0
+bmw 320i,gas,std,four,sedan,rwd,front,ohc,four,mpfi,0,101.2,176.8,64.8,54.3,2395,108,3.5,2.8,8.8,101,5800,23,29,16925.0
+bmw x1,gas,std,two,sedan,rwd,front,ohc,six,mpfi,0,101.2,176.8,64.8,54.3,2710,164,3.31,3.19,9.0,121,4250,21,28,20970.0
+bmw x3,gas,std,four,sedan,rwd,front,ohc,six,mpfi,0,101.2,176.8,64.8,54.3,2765,164,3.31,3.19,9.0,121,4250,21,28,21105.0
+bmw z4,gas,std,four,sedan,rwd,front,ohc,six,mpfi,1,103.5,189.0,66.9,55.7,3055,164,3.31,3.19,9.0,121,4250,20,25,24565.0
+bmw x4,gas,std,four,sedan,rwd,front,ohc,six,mpfi,0,103.5,189.0,66.9,55.7,3230,209,3.62,3.39,8.0,182,5400,16,22,30760.0
+bmw x5,gas,std,two,sedan,rwd,front,ohc,six,mpfi,0,103.5,193.8,67.9,53.7,3380,209,3.62,3.39,8.0,182,5400,16,22,41315.0
+bmw x3,gas,std,four,sedan,rwd,front,ohc,six,mpfi,0,110.0,197.0,70.9,56.3,3505,209,3.62,3.39,8.0,182,5400,15,20,36880.0
+chevrolet impala,gas,std,two,hatchback,fwd,front,l,three,2bbl,2,88.4,141.1,60.3,53.2,1488,61,2.91,3.03,9.5,48,5100,47,53,5151.0
+chevrolet monte carlo,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,94.5,155.9,63.6,52.0,1874,90,3.03,3.11,9.6,70,5400,38,43,6295.0
+chevrolet vega 2300,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,94.5,158.8,63.6,52.0,1909,90,3.03,3.11,9.6,70,5400,38,43,6575.0
+dodge rampage,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.8,1876,90,2.97,3.23,9.41,68,5500,37,41,5572.0
+dodge challenger se,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.8,1876,90,2.97,3.23,9.4,68,5500,31,38,6377.0
+dodge d200,gas,turbo,two,hatchback,fwd,front,ohc,four,mpfi,1,93.7,157.3,63.8,50.8,2128,98,3.03,3.39,7.6,102,5500,24,30,7957.0
+dodge monaco (sw),gas,std,four,hatchback,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.6,1967,90,2.97,3.23,9.4,68,5500,31,38,6229.0
+dodge colt hardtop,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.6,1989,90,2.97,3.23,9.4,68,5500,31,38,6692.0
+dodge colt (sw),gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.6,1989,90,2.97,3.23,9.4,68,5500,31,38,7609.0
+dodge coronet custom,gas,turbo,two,sedan,fwd,front,ohc,four,mpfi,1,93.7,157.3,63.8,50.6,2191,98,3.03,3.39,7.6,102,5500,24,30,8558.0
+dodge dart custom,gas,std,four,wagon,fwd,front,ohc,four,2bbl,-1,103.3,174.6,64.6,59.8,2535,122,3.34,3.46,8.5,88,5000,24,30,8921.0
+dodge coronet custom (sw),gas,turbo,two,hatchback,fwd,front,ohc,four,mfi,3,95.9,173.2,66.3,50.2,2811,156,3.6,3.9,7.0,145,5000,19,24,12964.0
+honda civic,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,2,86.6,144.6,63.9,50.8,1713,92,2.91,3.41,9.6,58,4800,49,54,6479.0
+honda civic cvcc,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,2,86.6,144.6,63.9,50.8,1819,92,2.91,3.41,9.2,76,6000,31,38,6855.0
+honda civic,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,1,93.7,150.0,64.0,52.6,1837,79,2.91,3.07,10.1,60,5500,38,42,5399.0
+honda accord cvcc,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,1,93.7,150.0,64.0,52.6,1940,92,2.91,3.41,9.2,76,6000,30,34,6529.0
+honda civic cvcc,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,1,93.7,150.0,64.0,52.6,1956,92,2.91,3.41,9.2,76,6000,30,34,7129.0
+honda accord lx,gas,std,four,sedan,fwd,front,ohc,four,1bbl,0,96.5,163.4,64.0,54.5,2010,92,2.91,3.41,9.2,76,6000,30,34,7295.0
+honda civic 1500 gl,gas,std,four,wagon,fwd,front,ohc,four,1bbl,0,96.5,157.1,63.9,58.3,2024,92,2.92,3.41,9.2,76,6000,30,34,7295.0
+honda accord,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,0,96.5,167.5,65.2,53.3,2236,110,3.15,3.58,9.0,86,5800,27,33,7895.0
+honda civic 1300,gas,std,two,hatchback,fwd,front,ohc,four,1bbl,0,96.5,167.5,65.2,53.3,2289,110,3.15,3.58,9.0,86,5800,27,33,9095.0
+honda prelude,gas,std,four,sedan,fwd,front,ohc,four,1bbl,0,96.5,175.4,65.2,54.1,2304,110,3.15,3.58,9.0,86,5800,27,33,8845.0
+honda accord,gas,std,four,sedan,fwd,front,ohc,four,1bbl,0,96.5,175.4,62.5,54.1,2372,110,3.15,3.58,9.0,86,5800,27,33,10295.0
+honda civic,gas,std,four,sedan,fwd,front,ohc,four,mpfi,0,96.5,175.4,65.2,54.1,2465,110,3.15,3.58,9.0,101,5800,24,28,12945.0
+honda civic (auto),gas,std,two,sedan,fwd,front,ohc,four,2bbl,1,96.5,169.1,66.0,51.0,2293,110,3.15,3.58,9.1,100,5500,25,31,10345.0
+isuzu MU-X,gas,std,four,sedan,rwd,front,ohc,four,2bbl,0,94.3,170.7,61.8,53.5,2337,111,3.31,3.23,8.5,78,4800,24,29,6785.0
+isuzu D-Max ,gas,std,two,sedan,fwd,front,ohc,four,2bbl,1,94.5,155.9,63.6,52.0,1874,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+isuzu D-Max V-Cross,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,94.5,155.9,63.6,52.0,1909,90,3.03,3.11,9.6,70,5400,38,43,8916.5
+isuzu D-Max ,gas,std,two,hatchback,rwd,front,ohc,four,spfi,2,96.0,172.6,65.2,51.4,2734,119,3.43,3.23,9.2,90,5000,24,29,11048.0
+jaguar xj,gas,std,four,sedan,rwd,front,dohc,six,mpfi,0,113.0,199.6,69.6,52.8,4066,258,3.63,4.17,8.1,176,4750,15,19,32250.0
+jaguar xf,gas,std,four,sedan,rwd,front,dohc,six,mpfi,0,113.0,199.6,69.6,52.8,4066,258,3.63,4.17,8.1,176,4750,15,19,35550.0
+jaguar xk,gas,std,two,sedan,rwd,front,ohcv,twelve,mpfi,0,102.0,191.7,70.6,47.8,3950,326,3.54,2.76,11.5,262,5000,13,17,36000.0
+maxda rx3,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.1,159.1,64.2,54.1,1890,91,3.03,3.15,9.0,68,5000,30,31,5195.0
+maxda glc deluxe,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.1,159.1,64.2,54.1,1900,91,3.03,3.15,9.0,68,5000,31,38,6095.0
+mazda rx2 coupe,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.1,159.1,64.2,54.1,1905,91,3.03,3.15,9.0,68,5000,31,38,6795.0
+mazda rx-4,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.1,166.8,64.2,54.1,1945,91,3.03,3.15,9.0,68,5000,31,38,6695.0
+mazda glc deluxe,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.1,166.8,64.2,54.1,1950,91,3.08,3.15,9.0,68,5000,31,38,7395.0
+mazda 626,gas,std,two,hatchback,rwd,front,rotor,two,4bbl,3,95.3,169.0,65.7,49.6,2380,70,3.33,3.255,9.4,101,6000,17,23,10945.0
+mazda glc,gas,std,two,hatchback,rwd,front,rotor,two,4bbl,3,95.3,169.0,65.7,49.6,2380,70,3.33,3.255,9.4,101,6000,17,23,11845.0
+mazda rx-7 gs,gas,std,two,hatchback,rwd,front,rotor,two,4bbl,3,95.3,169.0,65.7,49.6,2385,70,3.33,3.255,9.4,101,6000,17,23,13645.0
+mazda glc 4,gas,std,two,hatchback,rwd,front,rotor,two,mpfi,3,95.3,169.0,65.7,49.6,2500,80,3.33,3.255,9.4,135,6000,16,23,15645.0
+mazda 626,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,98.8,177.8,66.5,53.7,2385,122,3.39,3.39,8.6,84,4800,26,32,8845.0
+mazda glc custom l,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,98.8,177.8,66.5,55.5,2410,122,3.39,3.39,8.6,84,4800,26,32,8495.0
+mazda glc custom,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,98.8,177.8,66.5,53.7,2385,122,3.39,3.39,8.6,84,4800,26,32,10595.0
+mazda rx-4,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,98.8,177.8,66.5,55.5,2410,122,3.39,3.39,8.6,84,4800,26,32,10245.0
+mazda glc deluxe,diesel,std,four,sedan,fwd,front,ohc,four,idi,0,98.8,177.8,66.5,55.5,2443,122,3.39,3.39,22.7,64,4650,36,42,10795.0
+mazda 626,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,0,98.8,177.8,66.5,55.5,2425,122,3.39,3.39,8.6,84,4800,26,32,11245.0
+mazda glc,gas,std,four,sedan,rwd,front,ohc,four,mpfi,0,104.9,175.0,66.1,54.4,2670,140,3.76,3.16,8.0,120,5000,19,27,18280.0
+mazda rx-7 gs,diesel,std,four,sedan,rwd,front,ohc,four,idi,0,104.9,175.0,66.1,54.4,2700,134,3.43,3.64,22.0,72,4200,31,39,18344.0
+buick electra 225 custom,diesel,turbo,four,sedan,rwd,front,ohc,five,idi,-1,110.0,190.9,70.3,56.5,3515,183,3.58,3.64,21.5,123,4350,22,25,25552.0
+buick century luxus (sw),diesel,turbo,four,wagon,rwd,front,ohc,five,idi,-1,110.0,190.9,70.3,58.7,3750,183,3.58,3.64,21.5,123,4350,22,25,28248.0
+buick century,diesel,turbo,two,hardtop,rwd,front,ohc,five,idi,0,106.7,187.5,70.3,54.9,3495,183,3.58,3.64,21.5,123,4350,22,25,28176.0
+buick skyhawk,diesel,turbo,four,sedan,rwd,front,ohc,five,idi,-1,115.6,202.6,71.7,56.3,3770,183,3.58,3.64,21.5,123,4350,22,25,31600.0
+buick opel isuzu deluxe,gas,std,four,sedan,rwd,front,ohcv,eight,mpfi,-1,115.6,202.6,71.7,56.5,3740,234,3.46,3.1,8.3,155,4750,16,18,34184.0
+buick skylark,gas,std,two,convertible,rwd,front,ohcv,eight,mpfi,3,96.6,180.3,70.5,50.8,3685,234,3.46,3.1,8.3,155,4750,16,18,35056.0
+buick century special,gas,std,four,sedan,rwd,front,ohcv,eight,mpfi,0,120.9,208.1,71.7,56.7,3900,308,3.8,3.35,8.0,184,4500,14,16,40960.0
+buick regal sport coupe (turbo),gas,std,two,hardtop,rwd,front,ohcv,eight,mpfi,1,112.0,199.2,72.0,55.4,3715,304,3.8,3.35,8.0,184,4500,14,16,45400.0
+mercury cougar,gas,turbo,two,hatchback,rwd,front,ohc,four,mpfi,1,102.7,178.4,68.0,54.8,2910,140,3.78,3.12,8.0,175,5000,19,24,16503.0
+mitsubishi mirage,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,2,93.7,157.3,64.4,50.8,1918,92,2.97,3.23,9.4,68,5500,37,41,5389.0
+mitsubishi lancer,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,2,93.7,157.3,64.4,50.8,1944,92,2.97,3.23,9.4,68,5500,31,38,6189.0
+mitsubishi outlander,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,2,93.7,157.3,64.4,50.8,2004,92,2.97,3.23,9.4,68,5500,31,38,6669.0
+mitsubishi g4,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,1,93.0,157.3,63.8,50.8,2145,98,3.03,3.39,7.6,102,5500,24,30,7689.0
+mitsubishi mirage g4,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,3,96.3,173.0,65.4,49.4,2370,110,3.17,3.46,7.5,116,5500,23,30,9959.0
+mitsubishi g4,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,3,96.3,173.0,65.4,49.4,2328,122,3.35,3.46,8.5,88,5000,25,32,8499.0
+mitsubishi outlander,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,3,95.9,173.2,66.3,50.2,2833,156,3.58,3.86,7.0,145,5000,19,24,12629.0
+mitsubishi g4,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,3,95.9,173.2,66.3,50.2,2921,156,3.59,3.86,7.0,145,5000,19,24,14869.0
+mitsubishi mirage g4,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,3,95.9,173.2,66.3,50.2,2926,156,3.59,3.86,7.0,145,5000,19,24,14489.0
+mitsubishi montero,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,96.3,172.4,65.4,51.6,2365,122,3.35,3.46,8.5,88,5000,25,32,6989.0
+mitsubishi pajero,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,96.3,172.4,65.4,51.6,2405,122,3.35,3.46,8.5,88,5000,25,32,8189.0
+mitsubishi outlander,gas,turbo,four,sedan,fwd,front,ohc,four,spdi,1,96.3,172.4,65.4,51.6,2403,110,3.17,3.46,7.5,116,5500,23,30,9279.0
+mitsubishi mirage g4,gas,std,four,sedan,fwd,front,ohc,four,spdi,-1,96.3,172.4,65.4,51.6,2403,110,3.17,3.46,7.5,116,5500,23,30,9279.0
+Nissan versa,gas,std,two,sedan,fwd,front,ohc,four,2bbl,1,94.5,165.3,63.8,54.5,1889,97,3.15,3.29,9.4,69,5200,31,37,5499.0
+nissan gt-r,diesel,std,two,sedan,fwd,front,ohc,four,idi,1,94.5,165.3,63.8,54.5,2017,103,2.99,3.47,21.9,55,4800,45,50,7099.0
+nissan rogue,gas,std,two,sedan,fwd,front,ohc,four,2bbl,1,94.5,165.3,63.8,54.5,1918,97,3.15,3.29,9.4,69,5200,31,37,6649.0
+nissan latio,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,94.5,165.3,63.8,54.5,1938,97,3.15,3.29,9.4,69,5200,31,37,6849.0
+nissan titan,gas,std,four,wagon,fwd,front,ohc,four,2bbl,1,94.5,170.2,63.8,53.5,2024,97,3.15,3.29,9.4,69,5200,31,37,7349.0
+nissan leaf,gas,std,two,sedan,fwd,front,ohc,four,2bbl,1,94.5,165.3,63.8,54.5,1951,97,3.15,3.29,9.4,69,5200,31,37,7299.0
+nissan juke,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,94.5,165.6,63.8,53.3,2028,97,3.15,3.29,9.4,69,5200,31,37,7799.0
+nissan latio,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,94.5,165.3,63.8,54.5,1971,97,3.15,3.29,9.4,69,5200,31,37,7499.0
+nissan note,gas,std,four,wagon,fwd,front,ohc,four,2bbl,1,94.5,170.2,63.8,53.5,2037,97,3.15,3.29,9.4,69,5200,31,37,7999.0
+nissan clipper,gas,std,two,hardtop,fwd,front,ohc,four,2bbl,2,95.1,162.4,63.8,53.3,2008,97,3.15,3.29,9.4,69,5200,31,37,8249.0
+nissan rogue,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,0,97.2,173.4,65.2,54.7,2324,120,3.33,3.47,8.5,97,5200,27,34,8949.0
+nissan nv200,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,97.2,173.4,65.2,54.7,2302,120,3.33,3.47,8.5,97,5200,27,34,9549.0
+nissan dayz,gas,std,four,sedan,fwd,front,ohcv,six,mpfi,0,100.4,181.7,66.5,55.1,3095,181,3.43,3.27,9.0,152,5200,17,22,13499.0
+nissan fuga,gas,std,four,wagon,fwd,front,ohcv,six,mpfi,0,100.4,184.6,66.5,56.1,3296,181,3.43,3.27,9.0,152,5200,17,22,14399.0
+nissan otti,gas,std,four,sedan,fwd,front,ohcv,six,mpfi,0,100.4,184.6,66.5,55.1,3060,181,3.43,3.27,9.0,152,5200,19,25,13499.0
+nissan teana,gas,std,two,hatchback,rwd,front,ohcv,six,mpfi,3,91.3,170.7,67.9,49.7,3071,181,3.43,3.27,9.0,160,5200,19,25,17199.0
+nissan kicks,gas,turbo,two,hatchback,rwd,front,ohcv,six,mpfi,3,91.3,170.7,67.9,49.7,3139,181,3.43,3.27,7.8,200,5200,17,23,19699.0
+nissan clipper,gas,std,two,hatchback,rwd,front,ohcv,six,mpfi,1,99.2,178.5,67.9,49.7,3139,181,3.43,3.27,9.0,160,5200,19,25,18399.0
+peugeot 504,gas,std,four,sedan,rwd,front,l,four,mpfi,0,107.9,186.7,68.4,56.7,3020,120,3.46,3.19,8.4,97,5000,19,24,11900.0
+peugeot 304,diesel,turbo,four,sedan,rwd,front,l,four,idi,0,107.9,186.7,68.4,56.7,3197,152,3.7,3.52,21.0,95,4150,28,33,13200.0
+peugeot 504 (sw),gas,std,four,wagon,rwd,front,l,four,mpfi,0,114.2,198.9,68.4,58.7,3230,120,3.46,3.19,8.4,97,5000,19,24,12440.0
+peugeot 504,diesel,turbo,four,wagon,rwd,front,l,four,idi,0,114.2,198.9,68.4,58.7,3430,152,3.7,3.52,21.0,95,4150,25,25,13860.0
+peugeot 504,gas,std,four,sedan,rwd,front,l,four,mpfi,0,107.9,186.7,68.4,56.7,3075,120,3.46,2.19,8.4,95,5000,19,24,15580.0
+peugeot 604sl,diesel,turbo,four,sedan,rwd,front,l,four,idi,0,107.9,186.7,68.4,56.7,3252,152,3.7,3.52,21.0,95,4150,28,33,16900.0
+peugeot 504,gas,std,four,wagon,rwd,front,l,four,mpfi,0,114.2,198.9,68.4,56.7,3285,120,3.46,2.19,8.4,95,5000,19,24,16695.0
+peugeot 505s turbo diesel,diesel,turbo,four,wagon,rwd,front,l,four,idi,0,114.2,198.9,68.4,58.7,3485,152,3.7,3.52,21.0,95,4150,25,25,17075.0
+peugeot 504,gas,std,four,sedan,rwd,front,l,four,mpfi,0,107.9,186.7,68.4,56.7,3075,120,3.46,3.19,8.4,97,5000,19,24,16630.0
+peugeot 504,diesel,turbo,four,sedan,rwd,front,l,four,idi,0,107.9,186.7,68.4,56.7,3252,152,3.7,3.52,21.0,95,4150,28,33,17950.0
+peugeot 604sl,gas,turbo,four,sedan,rwd,front,l,four,mpfi,0,108.0,186.7,68.3,56.0,3130,134,3.61,3.21,7.0,142,5600,18,24,18150.0
+plymouth fury iii,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.8,1918,90,2.97,3.23,9.4,68,5500,37,41,5572.0
+plymouth cricket,gas,turbo,two,hatchback,fwd,front,ohc,four,spdi,1,93.7,157.3,63.8,50.8,2128,98,3.03,3.39,7.6,102,5500,24,30,7957.0
+plymouth fury iii,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,1,93.7,157.3,63.8,50.6,1967,90,2.97,3.23,9.4,68,5500,31,38,6229.0
+plymouth satellite custom (sw),gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.7,167.3,63.8,50.8,1989,90,2.97,3.23,9.4,68,5500,31,38,6692.0
+plymouth fury gran sedan,gas,std,four,sedan,fwd,front,ohc,four,2bbl,1,93.7,167.3,63.8,50.8,2191,98,2.97,3.23,9.4,68,5500,31,38,7609.0
+plymouth valiant,gas,std,four,wagon,fwd,front,ohc,four,2bbl,-1,103.3,174.6,64.6,59.8,2535,122,3.35,3.46,8.5,88,5000,24,30,8921.0
+plymouth duster,gas,turbo,two,hatchback,rwd,front,ohc,four,spdi,3,95.9,173.2,66.3,50.2,2818,156,3.59,3.86,7.0,145,5000,19,24,12764.0
+porsche macan,gas,std,two,hatchback,rwd,front,ohc,four,mpfi,3,94.5,168.9,68.3,50.2,2778,151,3.94,3.11,9.5,143,5500,19,27,22018.0
+porcshce panamera,gas,std,two,hardtop,rwd,rear,ohcf,six,mpfi,3,89.5,168.9,65.0,51.6,2756,194,3.74,2.9,9.5,207,5900,17,25,32528.0
+porsche cayenne,gas,std,two,hardtop,rwd,rear,ohcf,six,mpfi,3,89.5,168.9,65.0,51.6,2756,194,3.74,2.9,9.5,207,5900,17,25,34028.0
+porsche boxter,gas,std,two,convertible,rwd,rear,ohcf,six,mpfi,3,89.5,168.9,65.0,51.6,2800,194,3.74,2.9,9.5,207,5900,17,25,37028.0
+porsche cayenne,gas,std,two,hatchback,rwd,front,dohcv,eight,mpfi,1,98.4,175.7,72.3,50.5,3366,203,3.94,3.11,10.0,288,5750,17,28,31400.5
+renault 12tl,gas,std,four,wagon,fwd,front,ohc,four,mpfi,0,96.1,181.5,66.5,55.2,2579,132,3.46,3.9,8.7,90,5100,23,31,9295.0
+renault 5 gtl,gas,std,two,hatchback,fwd,front,ohc,four,mpfi,2,96.1,176.8,66.6,50.5,2460,132,3.46,3.9,8.7,90,5100,23,31,9895.0
+saab 99e,gas,std,two,hatchback,fwd,front,ohc,four,mpfi,3,99.1,186.6,66.5,56.1,2658,121,3.54,3.07,9.31,110,5250,21,28,11850.0
+saab 99le,gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,99.1,186.6,66.5,56.1,2695,121,3.54,3.07,9.3,110,5250,21,28,12170.0
+saab 99le,gas,std,two,hatchback,fwd,front,ohc,four,mpfi,3,99.1,186.6,66.5,56.1,2707,121,2.54,2.07,9.3,110,5250,21,28,15040.0
+saab 99gle,gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,99.1,186.6,66.5,56.1,2758,121,3.54,3.07,9.3,110,5250,21,28,15510.0
+saab 99gle,gas,turbo,two,hatchback,fwd,front,dohc,four,mpfi,3,99.1,186.6,66.5,56.1,2808,121,3.54,3.07,9.0,160,5500,19,26,18150.0
+saab 99e,gas,turbo,four,sedan,fwd,front,dohc,four,mpfi,2,99.1,186.6,66.5,56.1,2847,121,3.54,3.07,9.0,160,5500,19,26,18620.0
+subaru,gas,std,two,hatchback,fwd,front,ohcf,four,2bbl,2,93.7,156.9,63.4,53.7,2050,97,3.62,2.36,9.0,69,4900,31,36,5118.0
+subaru dl,gas,std,two,hatchback,fwd,front,ohcf,four,2bbl,2,93.7,157.9,63.6,53.7,2120,108,3.62,2.64,8.7,73,4400,26,31,7053.0
+subaru dl,gas,std,two,hatchback,4wd,front,ohcf,four,2bbl,2,93.3,157.3,63.8,55.7,2240,108,3.62,2.64,8.7,73,4400,26,31,7603.0
+subaru,gas,std,four,sedan,fwd,front,ohcf,four,2bbl,0,97.2,172.0,65.4,52.5,2145,108,3.62,2.64,9.5,82,4800,32,37,7126.0
+subaru brz,gas,std,four,sedan,fwd,front,ohcf,four,2bbl,0,97.2,172.0,65.4,52.5,2190,108,3.62,2.64,9.5,82,4400,28,33,7775.0
+subaru baja,gas,std,four,sedan,fwd,front,ohcf,four,mpfi,0,97.2,172.0,65.4,52.5,2340,108,3.62,2.64,9.0,94,5200,26,32,9960.0
+subaru r1,gas,std,four,sedan,4wd,front,ohcf,four,2bbl,0,97.0,172.0,65.4,54.3,2385,108,3.62,2.64,9.0,82,4800,24,25,9233.0
+subaru r2,gas,turbo,four,sedan,4wd,front,ohcf,four,mpfi,0,97.0,172.0,65.4,54.3,2510,108,3.62,2.64,7.7,111,4800,24,29,11259.0
+subaru trezia,gas,std,four,wagon,fwd,front,ohcf,four,2bbl,0,97.0,173.5,65.4,53.0,2290,108,3.62,2.64,9.0,82,4800,28,32,7463.0
+subaru tribeca,gas,std,four,wagon,fwd,front,ohcf,four,mpfi,0,97.0,173.5,65.4,53.0,2455,108,3.62,2.64,9.0,94,5200,25,31,10198.0
+subaru dl,gas,std,four,wagon,4wd,front,ohcf,four,2bbl,0,96.9,173.6,65.4,54.9,2420,108,3.62,2.64,9.0,82,4800,23,29,8013.0
+subaru dl,gas,turbo,four,wagon,4wd,front,ohcf,four,mpfi,0,96.9,173.6,65.4,54.9,2650,108,3.62,2.64,7.7,111,4800,23,23,11694.0
+toyota corona mark ii,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,95.7,158.7,63.6,54.5,1985,92,3.05,3.03,9.0,62,4800,35,39,5348.0
+toyota corona,gas,std,two,hatchback,fwd,front,ohc,four,2bbl,1,95.7,158.7,63.6,54.5,2040,92,3.05,3.03,9.0,62,4800,31,38,6338.0
+toyota corolla 1200,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,1,95.7,158.7,63.6,54.5,2015,92,3.05,3.03,9.0,62,4800,31,38,6488.0
+toyota corona hardtop,gas,std,four,wagon,fwd,front,ohc,four,2bbl,0,95.7,169.7,63.6,59.1,2280,92,3.05,3.03,9.0,62,4800,31,37,6918.0
+toyota corolla 1600 (sw),gas,std,four,wagon,4wd,front,ohc,four,2bbl,0,95.7,169.7,63.6,59.1,2290,92,3.05,3.03,9.0,62,4800,27,32,7898.0
+toyota carina,gas,std,four,wagon,4wd,front,ohc,four,2bbl,0,95.7,169.7,63.6,59.1,3110,92,3.05,3.03,9.0,62,4800,27,32,8778.0
+toyota mark ii,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,95.7,166.3,64.4,53.0,2081,98,3.19,3.03,9.0,70,4800,30,37,6938.0
+toyota corolla 1200,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,0,95.7,166.3,64.4,52.8,2109,98,3.19,3.03,9.0,70,4800,30,37,7198.0
+toyota corona,diesel,std,four,sedan,fwd,front,ohc,four,idi,0,95.7,166.3,64.4,53.0,2275,110,3.27,3.35,22.5,56,4500,34,36,7898.0
+toyota corolla,diesel,std,four,hatchback,fwd,front,ohc,four,idi,0,95.7,166.3,64.4,52.8,2275,110,3.27,3.35,22.5,56,4500,38,47,7788.0
+toyota corona,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,95.7,166.3,64.4,53.0,2094,98,3.19,3.03,9.0,70,4800,38,47,7738.0
+toyota corolla,gas,std,four,hatchback,fwd,front,ohc,four,2bbl,0,95.7,166.3,64.4,52.8,2122,98,3.19,3.03,9.0,70,4800,28,34,8358.0
+toyota mark ii,gas,std,four,sedan,fwd,front,ohc,four,2bbl,0,95.7,166.3,64.4,52.8,2140,98,3.19,3.03,9.0,70,4800,28,34,9258.0
+toyota corolla liftback,gas,std,two,sedan,rwd,front,ohc,four,2bbl,1,94.5,168.7,64.0,52.6,2169,98,3.19,3.03,9.0,70,4800,29,34,8058.0
+toyota corona,gas,std,two,hatchback,rwd,front,ohc,four,2bbl,1,94.5,168.7,64.0,52.6,2204,98,3.19,3.03,9.0,70,4800,29,34,8238.0
+toyota celica gt liftback,gas,std,two,sedan,rwd,front,dohc,four,mpfi,1,94.5,168.7,64.0,52.6,2265,98,3.24,3.08,9.4,112,6600,26,29,9298.0
+toyota corolla tercel,gas,std,two,hatchback,rwd,front,dohc,four,mpfi,1,94.5,168.7,64.0,52.6,2300,98,3.24,3.08,9.4,112,6600,26,29,9538.0
+toyota corona liftback,gas,std,two,hardtop,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,52.0,2540,146,3.62,3.5,9.3,116,4800,24,30,8449.0
+toyota corolla,gas,std,two,hardtop,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,52.0,2536,146,3.62,3.5,9.3,116,4800,24,30,9639.0
+toyota starlet,gas,std,two,hatchback,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,52.0,2551,146,3.62,3.5,9.3,116,4800,24,30,9989.0
+toyota tercel,gas,std,two,hardtop,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,52.0,2679,146,3.62,3.5,9.3,116,4800,24,30,11199.0
+toyota corolla,gas,std,two,hatchback,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,52.0,2714,146,3.62,3.5,9.3,116,4800,24,30,11549.0
+toyota cressida,gas,std,two,convertible,rwd,front,ohc,four,mpfi,2,98.4,176.2,65.6,53.0,2975,146,3.62,3.5,9.3,116,4800,24,30,17669.0
+toyota corolla,gas,std,four,sedan,fwd,front,ohc,four,mpfi,-1,102.4,175.6,66.5,54.9,2326,122,3.31,3.54,8.7,92,4200,29,34,8948.0
+toyota celica gt,diesel,turbo,four,sedan,fwd,front,ohc,four,idi,-1,102.4,175.6,66.5,54.9,2480,110,3.27,3.35,22.5,73,4500,30,33,10698.0
+toyota corona,gas,std,four,hatchback,fwd,front,ohc,four,mpfi,-1,102.4,175.6,66.5,53.9,2414,122,3.31,3.54,8.7,92,4200,27,32,9988.0
+toyota corolla,gas,std,four,sedan,fwd,front,ohc,four,mpfi,-1,102.4,175.6,66.5,54.9,2414,122,3.31,3.54,8.7,92,4200,27,32,10898.0
+toyota mark ii,gas,std,four,hatchback,fwd,front,ohc,four,mpfi,-1,102.4,175.6,66.5,53.9,2458,122,3.31,3.54,8.7,92,4200,27,32,11248.0
+toyota corolla liftback,gas,std,two,hatchback,rwd,front,dohc,six,mpfi,3,102.9,183.5,67.7,52.0,2976,171,3.27,3.35,9.3,161,5200,20,24,16558.0
+toyota corona,gas,std,two,hatchback,rwd,front,dohc,six,mpfi,3,102.9,183.5,67.7,52.0,3016,171,3.27,3.35,9.3,161,5200,19,24,15998.0
+toyota starlet,gas,std,four,sedan,rwd,front,dohc,six,mpfi,-1,104.5,187.8,66.5,54.1,3131,171,3.27,3.35,9.2,156,5200,20,24,15690.0
+toyouta tercel,gas,std,four,wagon,rwd,front,dohc,six,mpfi,-1,104.5,187.8,66.5,54.1,3151,161,3.27,3.35,9.2,156,5200,19,24,15750.0
+vokswagen rabbit,diesel,std,two,sedan,fwd,front,ohc,four,idi,2,97.3,171.7,65.5,55.7,2261,97,3.01,3.4,23.0,52,4800,37,46,7775.0
+volkswagen 1131 deluxe sedan,gas,std,two,sedan,fwd,front,ohc,four,mpfi,2,97.3,171.7,65.5,55.7,2209,109,3.19,3.4,9.0,85,5250,27,34,7975.0
+volkswagen model 111,diesel,std,four,sedan,fwd,front,ohc,four,idi,2,97.3,171.7,65.5,55.7,2264,97,3.01,3.4,23.0,52,4800,37,46,7995.0
+volkswagen type 3,gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,97.3,171.7,65.5,55.7,2212,109,3.19,3.4,9.0,85,5250,27,34,8195.0
+volkswagen 411 (sw),gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,97.3,171.7,65.5,55.7,2275,109,3.19,3.4,9.0,85,5250,27,34,8495.0
+volkswagen super beetle,diesel,turbo,four,sedan,fwd,front,ohc,four,idi,2,97.3,171.7,65.5,55.7,2319,97,3.01,3.4,23.0,68,4500,37,42,9495.0
+volkswagen dasher,gas,std,four,sedan,fwd,front,ohc,four,mpfi,2,97.3,171.7,65.5,55.7,2300,109,3.19,3.4,10.0,100,5500,26,32,9995.0
+vw dasher,gas,std,two,convertible,fwd,front,ohc,four,mpfi,3,94.5,159.3,64.2,55.6,2254,109,3.19,3.4,8.5,90,5500,24,29,11595.0
+vw rabbit,gas,std,two,hatchback,fwd,front,ohc,four,mpfi,3,94.5,165.7,64.0,51.4,2221,109,3.19,3.4,8.5,90,5500,24,29,9980.0
+volkswagen rabbit,gas,std,four,sedan,fwd,front,ohc,five,mpfi,0,100.4,180.2,66.9,55.1,2661,136,3.19,3.4,8.5,110,5500,19,24,13295.0
+volkswagen rabbit custom,diesel,turbo,four,sedan,fwd,front,ohc,four,idi,0,100.4,180.2,66.9,55.1,2579,97,3.01,3.4,23.0,68,4500,33,38,13845.0
+volkswagen dasher,gas,std,four,wagon,fwd,front,ohc,four,mpfi,0,100.4,183.1,66.9,55.1,2563,109,3.19,3.4,9.0,88,5500,25,31,12290.0
+volvo 145e (sw),gas,std,four,sedan,rwd,front,ohc,four,mpfi,-2,104.3,188.8,67.2,56.2,2912,141,3.78,3.15,9.5,114,5400,23,28,12940.0
+volvo 144ea,gas,std,four,wagon,rwd,front,ohc,four,mpfi,-1,104.3,188.8,67.2,57.5,3034,141,3.78,3.15,9.5,114,5400,23,28,13415.0
+volvo 244dl,gas,std,four,sedan,rwd,front,ohc,four,mpfi,-2,104.3,188.8,67.2,56.2,2935,141,3.78,3.15,9.5,114,5400,24,28,15985.0
+volvo 245,gas,std,four,wagon,rwd,front,ohc,four,mpfi,-1,104.3,188.8,67.2,57.5,3042,141,3.78,3.15,9.5,114,5400,24,28,16515.0
+volvo 264gl,gas,turbo,four,sedan,rwd,front,ohc,four,mpfi,-2,104.3,188.8,67.2,56.2,3045,130,3.62,3.15,7.5,162,5100,17,22,18420.0
+volvo diesel,gas,turbo,four,wagon,rwd,front,ohc,four,mpfi,-1,104.3,188.8,67.2,57.5,3157,130,3.62,3.15,7.5,162,5100,17,22,18950.0
+volvo 145e (sw),gas,std,four,sedan,rwd,front,ohc,four,mpfi,-1,109.1,188.8,68.9,55.5,2952,141,3.78,3.15,9.5,114,5400,23,28,16845.0
+volvo 144ea,gas,turbo,four,sedan,rwd,front,ohc,four,mpfi,-1,109.1,188.8,68.8,55.5,3049,141,3.78,3.15,8.7,160,5300,19,25,19045.0
+volvo 244dl,gas,std,four,sedan,rwd,front,ohcv,six,mpfi,-1,109.1,188.8,68.9,55.5,3012,173,3.58,2.87,8.8,134,5500,18,23,21485.0
+volvo 246,diesel,turbo,four,sedan,rwd,front,ohc,six,idi,-1,109.1,188.8,68.9,55.5,3217,145,3.01,3.4,23.0,106,4800,26,27,22470.0
+volvo 264gl,gas,turbo,four,sedan,rwd,front,ohc,four,mpfi,-1,109.1,188.8,68.9,55.5,3062,141,3.78,3.15,9.5,114,5400,19,25,22625.0
